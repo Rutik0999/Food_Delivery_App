@@ -1,16 +1,47 @@
-# food_app_new
+# Food Delivery App 🍔📱
 
-A new Flutter project.
+A modern and user-friendly **Flutter-based food delivery app** that allows customers to browse restaurants, view menus, add items to cart, and complete orders with various payment options.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🍽️ Browse restaurants and dishes by category (Veg, Non-Veg, All)
+- 📜 Menu with images, add-ons, and pricing
+- 🛒 Smart cart with item quantity and add-on support
+- 🧾 Order confirmation with GST, delivery charges
+- 💳 Multiple payment modes (UPI, Card, Net Banking, COD)
+- 📍 Address management and delivery location support
+- 🎨 Beautiful and animated UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+_Add screenshots here if needed (just paste images or use links)_
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** (Frontend)
+- **Dart**
+- **ASP.NET Core Web API** (Backend)
+- **SQL Server** (Database)
+- **Razorpay API** (Payment Gateway)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Rutik0999/Food_Delivery_App.git
+cd Food_Delivery_App
+flutter pub get
+flutter run
+
+### 🛠 Prerequisites
+
+- Flutter SDK installed ([Get Flutter](https://docs.flutter.dev/get-started/install))
+- Dart support
+- Android Studio / VS Code
+- Git
